@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.main {
+    width: 100%;
+    background: url(/landing\ page.jpeg);
+    background-position: center;
+    background-size: cover;
+    height: 100vh;
+    position: relative;
+    font-family: sans-serif;
+}
+
+.nav{
+    width:86%;
+    display: flex;
+    margin: auto;
+    padding:1em;
+align-items: center;
+justify-content: space-between;
+
+}
+
+.nav .logo{
+    width: 160px;
+    cursor: pointer;
+    margin-top: -3%;
+    margin-left: -2%;
+}
+
+ul{
+    margin-top: -4%;
+}
+
+ul li {
+    list-style: none;
+    display: inline-block;
+    padding: 10px 16px;
+
+}
+
+ul li a {
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    color: blue;
+    margin-top: -3%;
+    transition: .4s ease;
+}
+ul li a:hover{
+    color:orangered;
+}
+
+.info{
+    margin-left: 9%;
+    margin-top: 7%;
+}
+
+.info h1{
+    font-size: 65px;
+    color: rgb(36,32,30)
+}
+
+.info h3 {
+    font-size: 18px;
+    letter-spacing: 1px;
+    line-height: 24px;
+}
+.info span{
+    color: orangered;
+}
+.info a {
+    text-decoration: none;
+    color: white;
+    border-radius: 10px;
+    background: rgb(36,32,30);
+    padding: 10px 20px;
+    margin: 26px 0;
+    display: inline-block;
+    transition: .4s ease;
+
+}
+.info a:hover{
+    background: orangered;
+}
+
+image{
+width: 30%;
+height: 60%;
+position: relative;
+right: 100px;
+bottom: 0;
+}
+
+.image img{
+    position: absolute;
+    height: 90%;
+    left: 80%;
+    transform: translate(-55%);
+    bottom: 0;
+    transition: 4s ease;
+}
+
+.image :hover.faith{
+left: 65%;
+}
