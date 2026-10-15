@@ -1,0 +1,4 @@
+Zuru World is a platform that connects people who need eyes on a physical place they cannot be (Seers) with verified local people already there with a smartphone (Showers).
+Two products: (1) Verification Layer: live, directed, GPS-verified video sessions with two-way audio and a permanent timestamped archive. Uses: property viewing for diaspora and buyers, insurance claim field checks, supplier/warehouse verification for logistics, farm and project checks, NGO donor verification of funded projects, journalist verification. (2) World Experience Layer: live guided virtual tours of places and daily life.
+Payment is per session through mobile money. Starting in East Africa (Nairobi). Every session is requested, paid and consented to by the person showing.
+Target customers: insurance, real estate, logistics, NGOs and donors, media, diaspora services, tourism.
